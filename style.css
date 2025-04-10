@@ -25,6 +25,15 @@ padding: 50px 0;
     padding: 4px 8px;
 }
 
+h1, h2, h3 {
+    color: black;
+    font-weight: 700;
+}
+
+a:hover {
+    color:red;
+}
+
 footer {
     background-color: rgb(183, 17, 158);
 }
